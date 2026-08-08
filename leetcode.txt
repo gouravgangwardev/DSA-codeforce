@@ -13,3 +13,7 @@ array:
 10. Next Permutation
 11. 3Sum Closest
 12. 3Sum
+13. Largest Rectangle in Histogram
+14. Remove Duplicates from Sorted Array II
+15. maximal rectangle 
+16. Sort Colors
