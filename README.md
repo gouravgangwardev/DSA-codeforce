@@ -26,7 +26,7 @@ Competitive-Programming/
 
 Problems are organized by **platform and solving date**, making the repository a record of my continuous practice.
 
-## 🎯 Goal
+## Goal
 
 **500+ LeetCode problems + consistent Codeforces practice.**
 
