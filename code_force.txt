@@ -1,3 +1,0 @@
-code force:
-
-1. distributed-llm-inference-scheduler {contest: ICPC 2026 Online Challenge 1 powered by Huawei}
